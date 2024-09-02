@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pobreza no Brasil</title>
+    <link rel="stylesheet" href="../css/pobreza.css">
+</head>
+<body>
+    <header>
+        <div>
+            <img src="../imagens/logo.png" alt="logo" class="header-img">
+        </div>
+        <nav>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href="inicio.html">GERAL</a></li>
+                <li><a href="redis/brasil.html">BRASIL</a></li>
+                <li><a href="redis/saude.html">SAÚDE</a></li>
+                <li><a href="redis/esportes.html">ESPORTES</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="ginastica">
+            <h1>Pobreza no Brasil</h1>
+            <table class="ginastica-table">
+                <tr>
+                    <td>
+                        <p>A pobreza no Brasil é derivada da má distribuição de renda e suas origens remontam ao período colonial. Atualmente o Nordeste concentra os maiores índices de pobreza do país. A pobreza no Brasil tem origem estrutural, derivada de um processo de colonização pautado pela sociedade escravagista. Os programas de transferência de renda foram essenciais para a redução do contingente de pobreza no Brasil, embora a conjuntura econômica nacional e internacional possam ser responsáveis pela ampliação da população pobre no país. O aprofundamento das desigualdades sociais e da má distribuição de renda, sobretudo após a crise de 2014, tem cada vez mais ampliado o número de indivíduos vivendo abaixo da linha de pobreza, que corresponde a R$ 154 ao mês.</p>
+                        <p>Em se tratando de domicílios, a pobreza brasileira é essencialmente urbana. Analisando o território nacional como um todo, a população com menor renda do país se concentra na região Nordeste. As consequências da pobreza incluem o aumento do preconceito para com a população marginalizada, a fome e o crescimento dos índices de violência.</p>
+                    </td>
+                    <td>
+                        <img src="../imagens/pobreza.jpg" width="450px" height="300px" class="ginastica-table-img">
+                        <h5>Moradores em situação de pobreza extrema. Reprodução: Internet.</h5>
+                    </td>
+                </tr>
+            </table>
+
+<hr>
+
+            <h2>O que é pobreza?</h2>
+            <p>A pobreza é definida como a falta de acesso a serviços essenciais (saneamento básico, saúde, educação, energia elétrica, entre outros), bens de consumo, sobretudo alimentos, e bens materiais necessários para a manutenção da vida em condições básicas. A restrição ao acesso, por sua vez, está ligada à renda individual ou familiar (de um domicílio). No entanto, a definição de pobreza é amplamente discutida no meio acadêmico e pode adquirir diversos aspectos e características a partir de diferentes organismos internacionais, instituições ou autores consultados. Ainda, pode-se definir a pobreza como sendo absoluta ou relativa. A pobreza absoluta é definida pela escassez de recursos e calculada a partir de parâmetros objetivos, como a linha de pobreza. A pobreza relativa, em contrapartida, está relacionada ao comparativo entre indivíduos, famílias ou grupos (o que inclui países), diretamente atrelada à forma como se dá a distribuição de renda na sociedade.</p>
+
+            <h2>Causas da pobreza</h2>
+            <p>A pobreza pode ter diversas causas, a depender do grupo social ou do país analisado, sendo elas de origem estrutural ou conjuntural. Em se tratando do Brasil, a causa primária da pobreza é estrutural e se amplia por meio da má distribuição de renda. A história do Brasil é marcada pelo processo colonial, cuja sociedade era composta por classes extremamente desiguais, sendo baseada no trabalho escravo. Uma pequena parcela da população podia ser considerada rica, sendo a sociedade brasileira do período composta majoritariamente por pessoas pobres e miseráveis.</p>
+            <p>A abolição da escravidão aprofundou as desigualdades sociais no país recém-formado, deixando os libertos à própria sorte, sem qualquer tipo de amparo estatal. Junto disso, temos que o Brasil sempre foi um país dependente do exterior e iniciou o seu processo de modernização tardiamente, seguindo o padrão dos países subdesenvolvidos. Durante esse processo, uma parcela significante da população não estava incluída, e a desigualdade social e de renda se agravaram com o tempo.</p>
+
+            <div class="img-pobreza">
+                <a href="https://globoplay.globo.com/v/12750952/"><img src="../imagens/pobrezo2.jpeg" alt="bloqueio" width="500px" height="325px"></a>
+                <h5>Homens catando objetos em lixão. Clique na imagem para interagir.</h5>
+            </div>
+            
+            <h2>Consequências da pobreza no Brasil:</h2>
+
+            <p> Dentre as principais consequências da pobreza no nosso país, se destacam a <a href="consequencias/aporofobia.html">Aporofobia</a> e
+            <a href="consequencias/violencia.html">Violência.</a> Para entender mais sobre esses dois tópicos, interaja com os links.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <div class="rodape">
+            <p>&copy; 2024 Natal Posts. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
