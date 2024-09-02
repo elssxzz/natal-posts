@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Brasil</title>
+    <link rel="stylesheet" href="../../css/topic/esportes.css">
+</head>
+<body>
+    <header>
+        <div>
+            <img src="../../imagens/logo.png" alt="logo" class="header-img">
+        </div>
+        <nav>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href="../inicio.html">GERAL</a></li>
+                <li><a href="brasil.html">BRASIL</a></li>
+                <li><a href="saude.html">SAÚDE</a></li>
+                <li><a href="esportes.html">ESPORTES</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <table class="inicio">
+            <tr>
+                <td class="violencia">
+                    <h2>Saída do Gabigol do Flamengo</h2>
+
+                    <p>O atacante Gabigol voltou a ser relacionado para um jogo oficial do Flamengo depois de três partidas de fora e falou sobre sua decisão de saída do Flamengo, maior ídolo rubro-negro depois da geração de 81, Gabriel Barbosa, o Gabigol, está vivendo seus últimos meses com o manto sagrado. Sem acordo pela renovação contratual, Gabigol já teria se apalavrado com a equipe do Palmeiras para vestir as cores alviverdes em 2025. Para entender mais sobre o assunto <a href="gabigol.html"> clique aqui </a> .</p>
+                </td>
+
+                <td>
+                    <div class="grafico-mulher">
+                        <img src="../../imagens/gabigol.jpeg" width="450" height="300">
+                    </div>
+                </td>
+            </tr>
+        </table>
+        
+        <table class="ginastica">
+            <tr>
+                <td>
+                    <div class="ginastica-equipe-img">
+                        <img src="../../imagens/equipe-feminina-ouro.jpg" width="475" height="300">
+                    </div>
+                </td>
+
+                <td>
+                    <h2>Seleção Brasileira de Ginástica Brilha nas Olimpíadas de Paris 2024</h2>
+    
+                    <p>Brasil conquista 3 medalhas de ouro e 2 de prata em performance histórica; Rebeca Andrade e Caio Souza são destaques ao liderar as equipes nacionais em uma das melhores edições da história da ginástica brasileira. Para entender mais sobre o assunto <a href="../ginastica.html"> clique aqui </a> .</p>
+                </td>
+            </tr>
+        </table>
+    </main>
+
+    <footer>
+        <div class="rodape">
+            <p>&copy; 2024 Natal Posts. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
