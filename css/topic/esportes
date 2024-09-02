@@ -62,6 +62,7 @@ p{
 
 .grafico-mulher {
     text-align: center;
+    padding: 20px;
 }
 
 a {
