@@ -1,0 +1,113 @@
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Ginástica brasileira</title>
+    <link rel="stylesheet" href="../css/ginastica.css">
+</head>
+
+<body>
+    
+    <header>
+        <div>
+            <img src="../imagens/logo.png" alt="logo" class="header-img">
+        </div>
+        <nav>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href="inicio.html">GERAL</a></li>
+                <li><a href="redis/brasil.html">BRASIL</a></li>
+                <li><a href="redis/saude.html">SAÚDE</a></li>
+                <li><a href="redis/esportes.html">ESPORTES</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="ginastica">
+         
+            <h1>Seleção Brasileira de Ginástica Brilha nas Olimpíadas de Paris 2024</h1>
+
+            <p>Após obter um desempenho que se destaca, o nosso país tem motivos para comemorar e se orgulhar quando falamos das olimpíadas de 2024,
+            em Paris.  Com anos de treino e um talento indescritível, os atletas brasileiros brilharam em inúmeras modalidades e trouxeram 
+            várias medalhas, chamando atenção a nível internacional.</p>
+
+            <h2>Desempenho Geral</h2>
+
+            <p>Quando se trata do desempenho do Brasil, é impossível não citar as modalidades de ginástica artística e rítmica, além de mostrarem a 
+            performance impressionante dos nossos atletas também mostrou a dedicação e esforço dos treinadores das respectivas equipes. No geral, 
+            o Brasil conquistou quatro medalhas, sendo uma de ouro, duas de prata e uma de bronze. 
+            Não há dúvidas nenhuma que superou as expectativas e conseguiu calar opiniões controvérsias sobre nossa ginástica nacional.</p>
+
+            <table class="ginastica-table">
+               <tr>
+                    <td>
+                        <h2>Ginástica Artística</h2>
+                        <p>Na ginástica artística, o destaque foi sem dúvidas Rebeca Andrade, que disputou lado a lado com a ginasta americana Simone Biles, que atualmente 
+                        possui o título de melhor do mundo em diversas modalidades. Essa disputa chamou grande atenção tanto da mídia como da 
+                        população brasileira, gerando uma comoção gigante no país. Ao todo, Rebeca trouxe três medalhas nas modalidades solo para o
+                        Brasil, sendo uma delas ouro na categoria solo, se tornando a maior medalhista olímpica brasileira da história.</p>
+
+                        <p>O intervalo de tempo entre o primeiro contato com o vírus até o início dos sintomas é de normalmente 
+                            3 a 16 dias, mas pode chegar a 21 dias em alguns casos isolados.</p>
+
+                        <p>Ademais, é notável o dsempenho de todas as integrantes brasileiras na modalidade, que juntas, 
+                        conquistaram bronze por na modalidade de equipes. No ano de 2024, as atletas Flávia Saraiva, Jade Barbosa, Júlia Soares, Lorrane Oliveira e 
+                        Rebeca Andrade apresentaram um desempenho incrível e representaram mais do que bem a nação brasileira.</p>
+
+                    </td>
+
+                    <td>
+                        <img src="../imagens/rebeca-andrade-ouro.jpg" width="485px" height="325px" class="rebeca-andrade-ouro">
+                    </td>
+                </tr>
+            </table>
+       
+            <h2>Ginástica Rítmica</h2>
+
+            <p>O Brasil entrou nas Olimpíadas de Paris como um dos principais candidatos ao pódio na ginástica rítmica. A equipe, composta por 
+            Deborah Medrado, Maria Eduarda Arakaki, Nicole Pírcio, Sofia Madeira e Victória Borges, havia conquistado o ouro no Pan de Santiago e 
+            no Mundial de 2024 antes de chegar aos Jogos Olímpicos. </p>
+            
+            <div class="ginastica-ritmica-equipe">
+                <img src="../imagens/ginastica-ritmica-equipe.jpg" width="500px" height="325px">
+                <h5>Equipe brasileira da seleção de ginástica. Reprodução: Internet / Olimpíadas.</h5>
+            </div>
+
+            <p>Durante a primeira apresentação obtivemos resultados impressionantes e obtendo o 4° lugar no ranking, entretanto, após a lesão da atleta 
+            Victória Borges, a equipe perdeu pontos pela execução de movimentos com maior dificuldade e caiu no quadro de colocações. Apesar desse 
+            contratempo, o desempenho da seleção foi tão bom na primeira prova que mesmo com o resultado da segunda prova, terminamos em 9° lugar no quadro
+            geral. Por pouco a equipe não se classificou para a próxima etapa, dando lugar para, respectivamente: Bulgária, Itália, Ucrânia, França, 
+            China, Israel, Uzbequistão e Azerbeijão. </p>
+
+            <h2>Impacto e Futuro</h2>
+            
+            <p>O sucesso nas Olimpíadas de 2024 é um marco importante para a ginástica brasileira e serve como um poderoso incentivo para futuros
+            talentos. Com um calendário de competições internacionais e campeonatos futuros, o Brasil está bem-posicionado para continuar sua 
+            ascensão na ginástica e buscar novas conquistas, ainda mais que em 2025 irá sediar o campeonato mundial de ginástica. </p>    
+
+            <p>Com conquistas significativas em ambas as modalidades, o país não só reafirmou sua presença no cenário internacional, mas também
+            inspirou uma nova geração de ginastas. À medida que o brilho dos Jogos Olímpicos de Paris se dissipa, o legado dessas conquistas 
+            continua a iluminar o caminho para o futuro da ginástica no Brasil. </p>
+
+<br>
+
+            <p>Para finalizar, fique aqui com o arquivo de vídeo que contém a performance da atleta Rebeca Andrade, que conquistou medalha de ouro 
+            na categoria solo pelo Brasil e desbancou a campeã Simone Biles.</p>
+
+            <div class="video-container">
+            <video width="640" height="360" controls>
+                <source src="../videos/rebeca-ouro.mp4" type="video/mp4">
+            </video>
+            </div>
+
+        </section>
+    </main>
+
+    <footer>
+        <div class="rodape">
+            <p>&copy; 2024 Natal Posts. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+    
+</body>
+</html>
