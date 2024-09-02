@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Saude</title>
+    <link rel="stylesheet" href="../../css/topic/saude.css">
+</head>
+<body>
+    <header>
+        <div>
+            <img src="../../imagens/logo.png" alt="logo" class="header-img">
+        </div>
+        <nav>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href="../inicio.html">GERAL</a></li>
+                <li><a href="brasil.html">BRASIL</a></li>
+                <li><a href="saude.html">SAÚDE</a></li>
+                <li><a href="esportes.html">ESPORTES</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <table class="inicio">
+            <tr>
+                <td width="450px" class="mpox">
+                    <div class="mpox-text">
+                        <h2>MPOX: Entenda o que é e como se proteger do vírus.</h2>
+                    </div>
+                        <p>Anteriormente conhecida como 'Varíola dos macacos', é uma doença viral que cada vez mais ganha maior incidência de casos e de mortes proveniente da doença. Entenda como ocorre o contagio e como se proteger <a href="../mpox.html">clicando aqui</a> . </p>
+
+                    <br>
+                    <br>
+
+                    <div class="mpox-table">
+                        <img src="../../imagens/mpox.jpg">
+                    </div>
+                </td>
+                <td class="violencia">
+                    <h2>Banalização da falta de investimento em hospitais públicos</h2>
+
+                    <p>Um dos maiores hospitais do RN, Walfredo Gurgel, que deveria suportar e atender a demanda da população potiguar que necessita de antendimento, sofre com problemas no sistema de prontuário, recepção lotada de pacientes e macas, falta de recurso, até mesmo os básicos, dos quais já levaram a vida de pessoas. Para saber mais sobre o assunto <a href="../banalizaçao.html">clique aqui</a></p>
+
+                    <div class="grafico-mulher">
+                        <img src="../../imagens/walfredo gurgel2.jpg" width="450" height="300">
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <section class="ginastica">
+            <table class="ginastica-table">
+                <tr>
+                    <td>
+                        <h2>Setembro Amarelo: Mês de Combate e Prevenção ao Suicídio</h2>
+    
+                        <p>Se trata do mês dedicado ao combate e à prevenção do suicídio no Brasil, inicialmente a campanha foi lançada em 2014 com o objetivo de conscientizar e promover ações sobre a prevenção do suicídio e promover mais conhecimentos sobre a depressão.  Normalmente, esse mês conta com várias palestras, debates e atos que tem como objetivo ajudar a quem precisa.</p>
+                        <br> 
+                        <p>Para entender mais sobre o assunto <a href="../setemebro-amarelo.html"> clique aqui </a> . </p>
+                    </td>
+    
+                    <td>
+                        <img src="../../imagens/setembro-amarelo-símbolo.jpeg.jpg" width="500px" height="300px" class="ginastica-table-img">
+                    </td>
+                </tr>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <div class="rodape">
+            <p>&copy; 2024 Natal Posts. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+    
+</body>
+</html>
