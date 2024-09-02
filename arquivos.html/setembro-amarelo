@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Setembro Amarelo</title>
+    <link rel="stylesheet" href="../css/setembro-amarelo.css">
+</head>
+<body>
+    
+    <header>
+        <div>
+            <img src="../imagens/logo.png" alt="logo" class="header-img">
+        </div>
+        
+        <nav>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href="inicio.html">GERAL</a></li>
+                <li><a href="redis/brasil.html">BRASIL</a></li>
+                <li><a href="redis/saude.html">SAÚDE</a></li>
+                <li><a href="redis/esportes.html">ESPORTES</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="setembro-amarelo">
+         
+            <h1>Setembro Amarelo: Mês de Combate e Prevenção ao Suicídio</h1>
+
+            <p>Se trata do mês dedicado ao combate e à prevenção do suicídio no Brasil, inicialmente a campanha foi lançada em 2014 com o objetivo 
+            de conscientizar e promover ações sobre a prevenção do suicídio e promover mais conhecimentos sobre a depressão.  Normalmente, esse 
+            mês conta com várias palestras, debates e atos que tem como objetivo ajudar a quem precisa.</p>
+
+            <p><strong>Mas por que o mês de setembro e qual o significado da cor amarelo?</strong> Durante esse mês é comemorado o Dia Mundial de 
+            Prevenção ao Suicídio, no dia 10 de setembro. Já a explicação por trás do símbolo, um laço amarelo, se dá devido a cor amarelo ter 
+            significado de luz e esperança, o que reforça a discussão de um tema que antes era tratado como tabu. </p>
+
+            <h2>Qual a importância de prevenir e se atentar aos sinais?</h2>
+
+            <p>O suicídio é um problema de saúde global e, no Brasil,  esse índice sobe cada vez mais entre os jovens. Segundo um  
+            <a href="https://www.thelancet.com/journals/lanam/article/PIIS2667-193X(24)00018-8/fulltext#:~:text=From%202011%20to%202022%2C%20720%2C480,have%20increased%20in%20the%20country"> 
+            estudo publicado no portal americano The Lancet Regional Health </a> , a taxa de suicídio subiu cerca de 3,7%, número que tem como tendência 
+            aumentar cada vez mais conforme o passar dos anos, reforçando a necessidade de um combate.</p>
+
+            <table class="sinais">
+                <tr>
+                    <td width="500px">
+                        <p>Ademais, se torna essencial a prevenção para buscar a diminuição desses índices e salvar vidas. Perceber os sinais e 
+                        dar todo o apoio possível para essas pessoas é um dos passos mais importantes nesse processo. Mas quais são esses sinais? 
+                        Aqui está alguns dos sinais mais recorrentes: </p>
+                    </td>
+
+                    <td>
+                        <ul>
+                            <li>Mudanças drásticas no comportamento ou humor;</li>
+                            <li>Comportamento de risco;</li>
+                            <li>Fala sobre querer morrer ou sentir-se sem esperança;</li>
+                            <li>Isolamento social e perda de interesse em atividades que antes eram prazerosas;</li>
+                            <li>Comportamento impulsivo ou arriscado;</li>
+                            <li>Automultilação.</li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+
+<hr>
+
+            <p>Por fim, é importante destacar a importância que o apoio familiar e da comunidade ajuda a prevenir o suicídio. A proximidade e ter 
+            conversas abertas sobre os sentimentos é essencial, além disso oferecer uma escuta ativa faz com que a pessoa se sinta acolhida e 
+            compreendida pelas outras pessoas. Também é importante destacar o papel de protagonista que profissionais de saúde possuem durante 
+            todo oprocesso, ter a oportunidade de se consultar com psicólogos e psiquiatras é um dos passos fundamentais para que seja ofertado um tratamento correto.</p>
+
+            <p>O Setembro Amarelo nos lembra da importância de encarar a prevenção do suicídio como um esforço conjunto. Através da informação, 
+            do diálogo aberto e do suporte entre as pessoas, podemos construir uma rede de ajuda que contribua para salvar vidas e trazer 
+            esperança para quem está em necessidade. Cada gesto é valioso, e a conscientização pode mudar realidades, fazendo uma diferença 
+            significativa na vida de muitas pessoas.</p>
+
+<br>
+
+            <h1>VOCÊ NÃO ESTÁ SOZINHO!</h1>
+
+            <p><strong>Lembre-se:</strong> Procurar ajuda é um ato de coragem e uma importante etapa para cuidar de si mesmo. 
+            Não espere que a situação piore. Entre em contato com o CVV e receba o suporte necessário para enfrentar esses desafios.</p>
+
+            <p>Se você ou alguém que você conhece está enfrentando dificuldades, não hesite em buscar ajuda. Lembre-se: falar é a 
+            melhor forma de cuidar de si mesmo e dos outros.</p>
+
+            <p>Não hesite em buscar ajuda - você merece ser ouvido e cuidado.</p>
+
+<hr>
+
+            <h3>Centro de Valorização da Vida (CVV)</h3>
+
+            <ul>
+                <li><strong>Telefone</strong>: 188</li>
+                <li><strong>Site:</strong> <a href="https://cvv.org.br/">www.cvv.org.br</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <div class="rodape">
+            <p>&copy; 2024 Natal Posts. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+    
+</body>
+</html>
