@@ -1,0 +1,163 @@
+body {
+    background-color: aliceblue;
+    margin: 0px;
+}
+
+header {
+    background-color: #9eaaac;
+    color: #fff;
+    padding: 20px;
+    text-align: left;
+}
+
+header img {
+    max-width: 20%;
+    max-height: 20%;
+}
+
+nav {
+    padding: 10px;
+    text-align: center;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+nav ul li {
+    font-family: 'Andale Mono', monospace;
+    display: inline-flex;
+    margin-right: 150px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.header-subtitle{
+    font-family: 'Andale Mono', monospace;
+}
+
+h2 {
+    font-family: 'Impact', fantasy;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+p {
+    font-family: 'Andale Mono', monospace;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.ecossistema {
+    margin: 20px;
+    padding: 22px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #e7e9eb;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.ecossistema {
+    font-family: 'Andale Mono', monospace;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.fumaça-sp {
+    float: left;
+    margin-right: 20px; 
+    margin-bottom: 20px; 
+}
+
+
+.inicio {
+    border-collapse: separate;
+    border-spacing: 40px 0;
+}
+
+.ecossistema h1 {
+    font-family: 'Impact', fantasy;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+img {
+    border-radius: 8px;
+}
+
+.ecossistema-table td {
+    padding: 20px; 
+    vertical-align: top; 
+}
+
+.fumaça-manaus {
+    float: left;
+    margin-right: 20px; 
+    margin-bottom: 20px; 
+}
+
+.fumaça-manaus-p {
+    align-content: right ;
+}
+
+.fumaça-manaus-table td {
+    padding: 20px; 
+    vertical-align: top; 
+}
+
+.garimpo-amazonia-img {
+    float: left;
+    margin-right: 20px; 
+    margin-bottom: 20px; 
+}
+
+.garimpo-amazonia-p {
+    align-content: right ;
+}
+
+.garimpo-amazonia-table td {
+    padding: 20px; 
+    vertical-align: top; 
+}
+
+.video-container {
+    display: flex;
+    justify-content: auto;
+    align-items: auto;
+}
+    
+video {
+    max-width: 100%; 
+    border-radius: 8px;
+}
+
+.rodape {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    align-content: center;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    align-content: center;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
