@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Banalização</title>
+    <link rel="stylesheet" href="../../css/pobreza.css">
+</head>
+<body>
+    <header>
+        <div>
+            <img src="../../imagens/logo.png" alt="logo" class="header-img">
+        </div>
+        <nav>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href="../inicio.html">GERAL</a></li>
+                <li><a href="../redis/brasil.html">BRASIL</a></li>
+                <li><a href="../redis/saude.html">SAÚDE</a></li>
+                <li><a href="../redis/esportes.html">ESPORTES</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="ginastica">
+            <h1>Aporofobia</h1>
+            <p>Aporofobia é um sentimento difuso de rechaço ao pobre. É o preconceito, ainda pouco estudado, com o fato de uma pessoa viver em estado de pobreza. O que significa que, além de não ter dinheiro, essa pessoa parece ser uma desamparada, isto é, carente de recursos, direitos, oportunidades ou até capacidades para deixar de ser pobre. É comum em sociedades como as nossas, que são organizadas em torno da ideia de contrato. O pobre é o verdadeiramente diferente. Não pelo fato de viver com muito pouco dinheiro, mas porque ele não nada tem de atrativo para oferecer aos outros. O pobre do qual se tem medo é aquele visto como incapaz de contratar ou ser contratado em qualquer esfera social.
+
+            <p>É este o tipo de desprezo que caracteriza atitudes aporófobas. É o rechaço a quem não pode entregar nada em troca, ou, ao menos, parece não poder. E por isso é excluído da construção do contrato político, econômico ou social desse mundo de dar e receber, no qual só podem entrar os que parecem ter algo de interessante para dar em retorno. Portanto, a chave para entender o que é a aporofobia é o fato de que, atualmente, as relações sociais são orientadas por expectativas de receber algo em troca. E os pobres parecem representar uma quebra desse sistema, uma vez que são considerados desqualificados para isso e excluídos do jogo.</p>
+
+            <div class="aporofobia" style="text-align: center;">
+                <img src="../../imagens/invisiveis.png" width="500px" height="400px" class="ginastica-table-img">
+                <h5>Tirinha "Um Brasil" contendo crítica social sobre pobreza. Reprodução: Adão, Internet.</h5>
+            </div>
+
+        </section>
+    </main>
+
+    <footer>
+        <div class="rodape">
+            <p>&copy; 2024 Natal Posts. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+    
+</body>
+</html>
