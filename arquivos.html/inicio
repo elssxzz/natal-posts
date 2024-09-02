@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Natal Post</title>
+    <link rel="stylesheet" href="../css/inicio.css">
+</head>
+<body>
+    <header>
+        <div>
+            <img src="../imagens/logo.png" alt="logo" class="header-img">
+        </div>
+        <nav>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href="inicio.html">GERAL</a></li>
+                <li><a href="redis/brasil.html">BRASIL</a></li>
+                <li><a href="redis/saude.html">SAÚDE</a></li>
+                <li><a href="redis/esportes.html">ESPORTES</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <table class="inicio">
+            <tr>
+                <td width="450px" class="mpox">
+                    <div class="mpox-text">
+                        <h2>Os impactos das atividades humanas no ecossistema brasileiro.</h2>
+                    </div>
+                        <p>As ações humanas sempre foram prejudiciais para o meio ambiente, agora, mais que nunca, os problemas estão cada vez mais descontrolados. Foi divulgado que 99,9% dos incêndios em São Paulo, foram por causas humanas. Para entender mais sobre o assunto <a href="ecossistema.html">clique aqui</a></p>
+                    <br>
+                    <br>
+    
+                        <div class="mpox-table">
+                            <img src="../imagens/incendio.webp">
+                        </div>
+                </td>
+                <td class="violencia">
+                    <h2>Banalização da falta de investimento em hospitais públicos</h2>
+
+                    <p>Um dos maiores hospitais do RN, Walfredo Gurgel, que deveria suportar e atender a demanda da população potiguar que necessita de antendimento, sofre com problemas no sistema de prontuário, recepção lotada de pacientes e macas, falta de recurso, até mesmo os básicos, dos quais já levaram a vida de pessoas. Para saber mais sobre o assunto<a href="banalizaçao.html"> clique aqui</a></p>
+
+                    <div class="grafico-mulher">
+                        <img src="../imagens/walfredo gurgel2.jpg" width="450" height="300">
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <section class="ginastica">
+            <table class="ginastica-table">
+                <tr>
+                    <td>
+                        <h2>Setembro Amarelo: Mês de Combate e Prevenção ao Suicídio</h2>
+    
+                        <p>Se trata do mês dedicado ao combate e à prevenção do suicídio no Brasil, inicialmente a campanha foi lançada em 2014 com o objetivo de conscientizar e promover ações sobre a prevenção do suicídio e promover mais conhecimentos sobre a depressão.  Normalmente, esse mês conta com várias palestras, debates e atos que tem como objetivo ajudar a quem precisa.</p>
+                        <br> 
+                        <p>Para entender mais sobre o assunto <a href="setemebro-amarelo.html   "> clique aqui </a> . </p>
+                    </td>
+    
+                    <td>
+                        <img src="../imagens/setembro-amarelo-símbolo.jpeg.jpg" width="500px" height="300px" class="ginastica-table-img">
+                    </td>
+                </tr>
+            </table>
+        </section>
+        <table class="inicio">
+            <tr>
+                <td width="450px" class="mpox">
+                    <div class="mpox-text">
+                        <h2>MPOX: Entenda o que é e como se proteger do vírus.</h2>
+                    </div>
+                        <p>Anteriormente conhecida como 'Varíola dos macacos', é uma doença viral que cada vez mais ganha maior incidência de casos e de mortes proveniente da doença. Entenda como ocorre o contagio e como se proteger <a href="../arquivos/mpox.html">clicando aqui</a> . </p>
+
+                    <br>
+                    <br>
+
+                    <div class="mpox-table">
+                        <img src="../imagens/mpox.jpg">
+                    </div>
+                </td>
+                <td class="violencia">
+                    <h2>Saída do Gabigol do Flamengo</h2>
+
+                    <p>O atacante Gabigol voltou a ser relacionado para um jogo oficial do Flamengo depois de três partidas de fora e falou sobre sua decisão de saída do Flamengo, maior ídolo rubro-negro depois da geração de 81, Gabriel Barbosa, o Gabigol, está vivendo seus últimos meses com o manto sagrado. Sem acordo pela renovação contratual, Gabigol já teria se apalavrado com a equipe do Palmeiras para vestir as cores alviverdes em 2025. Para entender mais sobre o assunto <a href="gabigol.html"> clique aqui </a> .</p>
+
+                    <div class="grafico-mulher">
+                        <img src="../imagens/gabigol.jpeg" width="450" height="300">
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <section class="pobreza">
+
+            <h2>Pobreza: Entenda a gravidade dessa problematica no Brasil</h2>
+    
+            <p>Pobreza, adversidade que está presente em mais de 25% de toda a população do país, assolando a vida de muitos brasileiros a cada ano que se passa, causando transtornos graves ao em estar dos cidadãos. Ademais, o problema se estende para outros empecilhos, como aparofobia e o aumento da  violência. Para entender mais sobre o assunto <a href="pobreza.html"> clique aqui </a> . </p>
+     
+        </section>
+        <section class="ginastica">
+            <table class="ginastica-table">
+                <tr>
+                    <td>
+                        <h2>Seleção Brasileira de Ginástica Brilha nas Olimpíadas de Paris 2024</h2>
+
+                        <p> Brasil conquista 3 medalhas de ouro e 2 de prata em performance histórica; Rebeca Andrade e Caio Souza são destaques ao liderar as equipes nacionais em uma das melhores edições da história da ginástica brasileira.</p>
+                        <br> 
+                        <p>Para entender mais sobre o assunto <a href="../arquivos/ginastica.html"> clique aqui </a> . </p>
+                    </td>
+
+                    <td>
+                        <img src="../imagens/equipe-feminina-ouro.jpg" width="500px" height="300px" class="ginastica-table-img">
+                    </td>
+                </tr>
+            </table>
+        </section>
+    </main>
+   
+    <footer>
+        <div class="rodape">
+            <p>&copy; 2024 Natal Posts. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
