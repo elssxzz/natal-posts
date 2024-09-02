@@ -1,0 +1,64 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>O maior ídolo do Flamengo</title>
+    <link rel="stylesheet" href="../css/gabigol.css">
+</head>
+<body>
+    <header>
+        <div>
+            <img src="../imagens/logo.png" alt="logo" class="header-img">
+        </div>
+        <nav>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href="inicio.html">GERAL</a></li>
+                <li><a href="redis/brasil.html">BRASIL</a></li>
+                <li><a href="redis/saude.html">SAÚDE</a></li>
+                <li><a href="redis/esportes.html">ESPORTES</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="ginastica">
+            <h1>Nova era: Entenda a saída do Gabigol do Clube de Regatas do Flamengo. O que pode mudar?</h1>
+            <table class="ginastica-table">
+                <tr>
+                    <td>
+                        <p>O Palmeiras, do técnico Abel Ferreira, gostaria de ter o jogador ainda nesta temporada, mas com a compensação financeira fixada na casa dos 5 milhões de euros por Rodolfo Landim, a equipe palmeirense vai aguardar o atacante que iniciará sua jornada na nova casa no próximo ano. Gabigol não quer e não deve assinar um pré-contrato com o Palmeiras, para não entrar em atrito com o torcedor do Flamengo e para não perder oportunidades de entrar em campo, uma vez que já seria oficialmente jogador do principal rival rubro-negro na atualidade. Com isso, o acerto fica apenas nas palavras dadas por Gabigol e sua equipe, a equipe palestrina, descartou sair do clube nesta janela de meio do ano. Mas cravou uma data para deixar o Flamengo: dezembro de 2024, quando termina o seu contrato com o clube rubro-negro.</p>
+                        <p>"Tenho contrato com o Flamengo até dezembro, como todos sabem. Vou ficar até dezembro, e aí temos tempo para conversar sobre isso com o Flamengo e outros times. Isso está em aberto, mas é mais com meu pai e meu empresário. Meu foco mesmo é poder jogar, criar ritmo de jogo novamente, quem sabe ter uma sequência, é o que eu venho buscando, para ajudar o Flamengo"</p>
+                    </td>
+                    <td>
+                        <img src="../imagens/gabigol2.jpg" width="500px" height="350px" class="ginastica-table-img">
+                    </td>
+                </tr>
+            </table>
+
+<hr>
+
+            <table class="ginastica-table">
+                <tr>
+                    <td>
+                        <img src="../imagens/flamengo.webp" width="500px" height="300px" class="ginastica-table-img">
+                    </td>
+                    <td>
+                        <h2>A chegada</h2>
+                        <p>Gabigol foi contratado pelo Flamengo no início de 2019 por empréstimo junto à Inter de Milão. O atacante vinha de uma temporada espetacular pelo Santos, onde foi artilheiro do Campeonato Brasileiro e da Copa do Brasil no ano anterior, algo inédito. Contudo, Gabriel não era a primeira opção do Rubro-Negro: o jogador surgiu como uma espécie de "plano B", visto que o clube almejava a contratação do atacante Pablo, mas não conseguiu chegar a um acordo com o Athletico-PR. No fim das contas, tudo deu certo. Gabigol chegou com tudo ao Flamengo e se adaptou rapidamente. O então camisa nove fez sua estreia no dia 23 de janeiro de 2019, na vitória por 2 a 1 sobre o Resende pelo Campeonato Carioca e marcou seu primeiro gol em 24 de fevereiro, na goleada por 4 a 1 diante do Americano, também pelo Estadual.</p>
+                    </td>
+                </tr>
+            </table>
+
+            <p>O ano de 2019 é inesquecível para a torcida do Flamengo. Após a chegada de Jorge Jesus, o Rubro-Negro se tornou um time quase imbatível e conquistou a Copa Libertadores da América, em uma final marcante contra o River Plate. O clube carioca perdia por 1 a 0 até os 44 minutos do segundo tempo, quando Gabigol empatou e, aos 50, o mesmo virou o jogo e trouxe a taça mais cobiçada da América do Sul para a Gávea.</p>
+
+            <p>Com 59 jogos, 43 gols e 11 assistências, rapidamente, Gabigol entrou para o seleto panteão de ídolos da história do Flamengo, sendo protagonista de um título que não vinha há 38 anos. No mesmo fim de semana, com a derrota do Palmeiras diante do Grêmio, o Rubro-Negro também se sagrou campeão brasileiro daquele ano, com direito a pontuação recorde na história dos pontos corridos com 20 clubes.</p>
+        </section>
+    </main>
+
+    <footer>
+        <div class="rodape">
+            <p>&copy; 2024 Natal Posts. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+    
+</body>
+</html>
