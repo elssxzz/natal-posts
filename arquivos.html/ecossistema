@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Impactos das queimadas no Brasil</title>
+    <link rel="stylesheet" href="../css/ecossistema.css">
+</head>
+<body>
+    
+    <header>
+        <div>
+            <img src="../imagens/logo.png" alt="logo" class="header-img">
+        </div>
+        <nav>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href="inicio.html">GERAL</a></li>
+                <li><a href="redis/brasil.html">BRASIL</a></li>
+                <li><a href="redis/saude.html">SAÚDE</a></li>
+                <li><a href="redis/esportes.html">ESPORTES</a></li>
+            </ul>
+        </nav>
+    </header>
+   
+    <main>
+        <section class="ecossistema">
+
+            <table class="ecossistema">
+                <tr>
+                     <td class="fumaça-sp">
+                        <img src="../imagens/fumaça-sp.jpg" width="600" height="371">
+                     </td>
+
+                     <td>
+                        <h1>Os impactos das atividades humanas no ecossistema brasileiro.</h1>
+                        <p>Mais do que nunca, a questão do desmatamento no Brasil se tornou cada vez mais alarmante, mostrando índices que quebram 
+                        vários recordes e preocupam não só especialistas, mas como também o próprio povo brasileiro. Os números de incêndios 
+                        criminosos aumentaram significantemente desde 2023, sem contar com as atividades ilegais de garimpo que apesar de terem 
+                        sido contidas no ano passado, voltaram com tudo em 2024.</p>
+                        <h5>Fumaça obstruindo visão de motoristas em rodovia de Ribeirão/SP. Reprodução: Internet.</h5>
+                     </td>
+                 </tr>
+             </table>
+
+            <p>A Defesa Civil divulgou dados que afirmam que 99,9% dos incêndios no estado de São Paulo entre os dias 20 e 26 de gosto foram 
+            causados pela ação humana. Infelizmente, em decorrência desses incêndios de cunho criminoso e desordenado, o estado entrou em estado 
+            de alerta máximo e forçou cerca de 48 municípios a ficarem em estado de alerta máximo para conter qualquer futura ameaça proveniente 
+            dessas queimadas.</p> 
+
+            <p>Esse episódio não só afetou o meio ambiente e os órgãos de administração pública, mas também afetou a vida de inúmeros paulistas. 
+            Os dados que se são confirmados até agora é de que duas pessoas perderam a vida e mais de 800 deixaram suas residências.  </p>
+
+            <p>Após a apuração de dados disponibilizados pelo Instituto Nacional de Pesquisas Espaciais, foi concluído que os incêndios que 
+            ocorreram em São Paulo ultrapassaram as queimadas na Amazônia no quesito de maiores incêndios do país na última semana (26/08).
+            Cerca de mais de 20.000 hectares já foram queimados em um curto período de uma semana.</p>
+
+<hr>
+
+            <table class="fumaça-manaus-table">
+                <tr>
+                    <td class="fumaça-manaus">
+                        <img src="../imagens/fumaça-manaus.jpg" width="580" height="281">
+                    </td>
+                
+                    <td class="fumaça-manaus-p">
+                        <p>Mesmo após a apresentação desses dados, não se pode deixar de lado os danos sofridos na região que abriga a Amazônia, que 
+                        sofre temporada recorde de queimadas, afetando cerca de 10 estados brasileiros com fumaça e suas populações que sofrem com o clima
+                        e a vulnerabilidade e propensão à doenças respiratórias..</p>
+                        <p>Queimadas na região registram o maio número de focos de incêndio num intervalo de 19 anos, desde janeiro até agosto foram registrados mais de 63.000 
+                        focos de incêndio, entretanto esse número ainda pode aumentar.</p>
+                        <h5>Fumaça vinda de queimadas na Amazônia na cidade de Manaus/AM. Reprodução: Internet.</h5>
+                    </td>
+                </tr>
+            </table>
+
+            <p>Dados de centros de pesquisas governamentais mostram um crescimento significativo no número de focos de incêndio, impulsionado principalmente por 
+            práticas agrícolas ilegais e desmatamento. A situação tem gerado preocupações sobre os impactos ambientais, incluindo a perda de biodiversidade e a 
+            contribuição para as mudanças climáticas, como o efeito estufa.</p>
+
+            <p>É importante lembrarmos a importância e impacto que a região possui não só no Brasil, mas como no mundo todo. A Amazônia atua como um regulador climático 
+            e é responsável por grande parte das chuvas que atingem a nossa extensão territorial. Inclusive, as queimadas e desmatamento da floresta amazônica teve 
+            grande impacto nas ondas de calor que estamos vivenciando neste último ano.</p>
+
+            <p>O governo federal afirma que enfrenta desafios na contenção das queimadas devido à falta de recursos e à dificuldade em monitorar grandes áreas da floresta, 
+            visto que possui o título de maior floresta tropical do planeta. Especialistas e ambientalistas pedem ações urgentes para fortalecer a fiscalização e implementar 
+            políticas mais eficazes contra essas ações criminosas. A situação atual reforça a necessidade de uma resposta coordenada para mitigar os danos e proteger a Amazônia, 
+            um ecossistema crucial para o equilíbrio climático global. </p>
+
+            <h2>Como o garimpo ilegal tem relação com as queimadas?</h2>
+
+            <table class="garimpo-amazonia-table">
+                <tr>
+                    <td class="garimpo-amazonia-p" width="600px">
+                        <p>O desmatamento para fins agrícolas não é o único motivo das queimadas criminosas, as atividades de garimpo ilegal também atuam de forma prejudicial e 
+                        protagonista no motivo dessas queimadas.</p>
+                
+                        <p>Além da contaminação dos meios aquáticos por mercúrio, o garimpo ilegal ainda se responsabiliza por queimadas com objetivo de limpar terreno para extração 
+                        do solo ou de enfraquecer a floresta. Apesar de não perecerem tão nocivos quanto os desmatamentos para atividades agrícolas, são deixados danos irreparáveis 
+                        no solo de uma região, transformando grandes áreas verdes em ‘desertos’ no meio da floresta.</p>
+                
+                        <p>Normalmente, após a queimada de uma área, é feita uma escavação em busca de metais preciosos. Nessas escavações são feitos danos nas camadas do solo e no 
+                        próprio solo, além do mercúrio que acaba sendo destinado nos cursos de rios e contaminando espécies marinhas.</p>
+                    </td>
+                
+                    <td class="garimpo-amazonia-img">
+
+                        <div class="video-container">
+                            <video width="640" height="360" controls>
+                                <source src="../videos/garimpo-amazonia.mp4" type="video/mp4">
+                            </video>
+                        </div>
+
+                        <h5>Vídeo que conscientiza sobre os danos do garimpo ilegal que a comunidade indígena Yanomami sofre. Reprodução: Jornal 'O Globo'.</h5>
+
+                    </td>
+                </tr>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <div class="rodape">
+            <p>&copy; 2024 Natal Posts. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+            
+</body>
+</html>
