@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>MPOX: Varíola dos macacos</title>
+    <link rel="stylesheet" href="../css/mpox.css">
+</head>
+
+<body>
+    
+    <header>
+        <div>
+            <img src="../imagens/logo.png" alt="logo" class="header-img">
+        </div>
+        <nav>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href="inicio.html">GERAL</a></li>
+                <li><a href="redis/brasil.html">BRASIL</a></li>
+                <li><a href="redis/saude.html">SAÚDE</a></li>
+                <li><a href="redis/esportes.html">ESPORTES</a></li>
+            </ul>
+        </nav>
+    </header>
+   
+    <main>
+        <section class="mpox">
+         
+            <h1>MPOX: Entenda o que é e como se proteger do vírus.</h1>
+
+            <p>A mpox, conhecida popularmente pelo nome de 'varíola dos macacos', é uma doença viral causada por um vírus (MPXV) que pertence ao mesmo gênero 
+            da varíola, Orthopoxvirus. É uma doença que é semelhante à varíola em alguns aspectos, porém disperta sintomas mais leves nos infectados.</p>
+
+            <p>Sua transmissão pode ocorrer principalmente ao manter contato com:
+                <ul class="contagio">
+                   <li>Pessoas que estão infectadas com o MPXV;</li>
+                   <li>Objetos que foram infectados;</li>
+                   <li>Animais silvestres que estão infectados com MPXV (em específico roedores).</li> 
+                </ul>
+            </p>
+
+            <table class="mpox-table">
+               <tr>
+                    <td>
+                        <h2>Sintomas e Sinais</h2>
+                        <p>Como sintomas mais frequentes, se apresentam:</p>
+                       
+                        <ul>
+                            <li>Erupções cutâneas ou lesões de pele;</li>
+                            <li>Linfonodos inchados (ínguas);</li>
+                            <li>Febre;</li>
+                            <li>Dores de cabeça e corpo;</li>
+                            <li>Calafrios;</li>
+                            <li>Fraqueza.</li>
+                        </ul>
+                        <p>O intervalo de tempo entre o primeiro contato com o vírus até o início dos sintomas é de normalmente 
+                            3 a 16 dias, mas pode chegar a 21 dias em alguns casos isolados.</p>
+                    </td>
+
+                    <td>
+                        <img src="../imagens/mpox-teste.jpeg" width="420px" height="266px">
+                    </td>
+                </tr>
+            </table>
+
+            <p>O diagnóstico da mpox é realizado de forma laboratorial, por teste molecular ou sequenciamento genético, semelhenate ao teste de COVID-19. 
+                A amostra a ser analisada nos testes é, preferencialmente, proveniente da secreção das lesões na pele no paciente. 
+                Quando essas não possuem secreção, é retirada as crostas (famosas casquinhas) das lesões que seráo encaminhadas para um laboratório.</p>
+       
+            <h2>Transmissão</h2>
+
+            <p>A mpox é transmitida principalmente pelo contato direto com a pele, secreções e lesões de uma pessoa infectada
+             O vírus também pode ser espalhado por gotículas respiratórias e saliva, principalmente se houver úlceras ou feridas na boca.</p>
+            
+            <p>A infecção também pode ocorrer ao tocar objetos contaminados, como roupas, toalhas ou utensílios usados por alguém doente. 
+            A transmissão por gotículas geralmente exige contato próximo e prolongado, o que aumenta o risco para trabalhadores da saúde, familiares e parceiros íntimos.
+            Uma pessoa pode espalhar a doença desde o início dos sintomas até que a erupção tenha cicatrizado e uma nova camada de pele tenha se formado.</p>
+
+            <h2>Prevenção e Tratamento:</h2>
+            
+            <table class="prevencao-tratamento-table">
+                <tr>
+                    <td class="mpox-celulas">
+                        <img src="../imagens/mpox-celulas.jpg" width="412" height="286">
+                    </td>
+                
+                    <td class="prevencao-tratamento">
+                        <p>Para evitar a mpox, evite o contato direto com pessoas doentes. Se precisar cuidar ou estar perto de alguém com a doença, use luvas, máscara, avental e óculos de proteção.
+                        Quem estiver doente deve se isolar e não compartilhar objetos pessoais, como toalhas, roupas e talheres, até que o risco de transmissão acabe.</p>
+            
+                        <p>Lave as mãos regularmente com água e sabão ou álcool em gel, especialmente após tocar em roupas, toalhas e objetos usados pela pessoa doente. 
+                        Lave esses itens com água morna e detergente e limpe e desinfete todas as superfícies contaminadas e descarte os resíduos, como curativos, de forma adequada.</p>
+                   
+                        <p>Atualmente, o tratamento da mpox é baseado em cuidados clínicos que visam aliviar os sintomas, prevenir e tratar complicações, e evitar possíveis sequelas. 
+                        A maioria dos casos apresenta sintomas leves a moderados. Até agora, não há um medicamento especificamente aprovado para tratar a mpox.</p>
+                    </td>
+                </tr>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <div class="rodape">
+            <p>&copy; 2024 Natal Posts. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+    
+</body>
+</html>
