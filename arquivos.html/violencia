@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Violência contra a mulher</title>
+    <link rel="stylesheet" href="../css/violencia.css">
+</head>
+<body>
+    
+    <header>
+        <div>
+            <img src="../imagens/logo.png" alt="logo" class="header-img">
+        </div>
+        <nav>
+            <ul>
+                <li><a href=""></a></li>
+                <li><a href="inicio.html">GERAL</a></li>
+                <li><a href="redis/brasil.html">BRASIL</a></li>
+                <li><a href="redis/saude.html">SAÚDE</a></li>
+                <li><a href="redis/esportes.html">ESPORTES</a></li>
+            </ul>
+        </nav>
+    </header>
+   
+    <main>
+        <section class="ecossistema">
+
+            <table class="ecossistema">
+                <tr>
+                     <td class="fumaça-sp">
+                        <img src="../imagens/gráfico-mulher.jpg"  width="450" height="400px">
+                     </td>
+
+                     <td>
+                        <h1>Pelo menos 8 mulheres são vítimas de algum tipo de violência a cada 24 horas no Brasil.</h1>
+                        <p>Uma pesquisa lançada revela um dado preocupante sobre a violência contra a mulher no Brasil: a cada três horas, uma mulher é vítima de algum tipo de violência. O estudo, realizado no ano de 2023 com dados de oito estados brasileiros, destaca a gravidade da situação e aponta para um cenário preocupante em termos de proteção e justiça para as mulheres.</p>
+                        <h5>Foto: Rede de Observatórios da Segurança</h5>
+                     </td>
+                 </tr>
+             </table>
+
+            <p>A pesquisa, conduzida pelo Instituto Brasileiro de Segurança Pública (IBSP) e pela Universidade Federal de Minas Gerais (UFMG), examinou os registros de violência doméstica, agressões físicas, abuso sexual e outras formas de violência contra a mulher em São Paulo, Rio de Janeiro, Minas Gerais, Bahia, Pernambuco, Ceará, Paraná e Santa Catarina. Os resultados revelam que, apesar de avanços em políticas públicas e leis de proteção, a violência continua a ser um problema persistente e alarmante. </p> 
+
+            <p>Entre as formas mais comuns de violência identificadas no estudo estão a violência física e psicológica, seguidas por casos de abuso sexual e ameaças. O levantamento também revelou uma alta taxa de subnotificação, com muitas mulheres optando por não denunciar os abusos devido ao medo, à vergonha ou à falta de confiança nas instituições de apoio.</p>
+
+            <p>Em resposta aos dados, diversas organizações de direitos humanos e grupos de apoio estão exigindo uma revisão e ampliação das políticas de proteção às mulheres. A Secretaria de Políticas para as Mulheres anunciou a criação de novas iniciativas para melhorar o atendimento às vítimas e reforçar a capacitação dos profissionais envolvidos no enfrentamento da violência de gênero
+            </p>
+
+            <table class="fumaça-manaus-table">
+                <tr>
+                    <td class="fumaça-manaus">
+                        <img src="../imagens/protesto.jpg" width="580" height="281">
+                    </td>
+                
+                    <td class="fumaça-manaus-p">
+                        <p>Além disso, campanhas de conscientização pública estão sendo promovidas para educar a população sobre os direitos das mulheres e a importância da denúncia. Especialistas apontam que a mudança cultural e a educação são cruciais para a prevenção da violência e para a criação de um ambiente mais seguro para as mulheres.</p>
+
+                        <p>A pesquisa evidencia a necessidade urgente de um compromisso contínuo e efetivo de todos os setores da sociedade para combater a violência contra a mulher. Somente com um esforço coordenado e com políticas públicas eficazes será possível reduzir esses índices preocupantes e garantir que todas as mulheres possam viver com dignidade e segurança. </p>
+                        <h5>Protesto em prol dos direitos das mulheres contra abusos sexuais. Reprodução: Internet.</h5>
+                    </td>
+                </tr>
+            </table>
+
+            <p>O cenário descrito pela pesquisa é um chamado à ação para cada um de nós. A luta contra a violência de gênero exige não apenas leis e políticas, mas também uma mudança profunda na forma como tratamos e percebemos as questões relacionadas à violência contra as mulheres. A esperança é que, com a colaboração de governos, sociedade civil e comunidade, possamos construir um futuro em que a violência contra a mulher seja um problema do passado. </p>
+        </section>
+    </main>
+
+    <footer>
+        <div class="rodape">
+            <p>&copy; 2024 Natal Posts. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+    
+</body>
+</html>
